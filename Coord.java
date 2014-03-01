@@ -24,5 +24,5 @@ public class Coord {
 	public void setRadiusConstrained2DZ(double radius){}
 	public double getAngle(){}
 	public double getAngle2DZ(){}
-	public void setAngle(double radians){}
+	public void setAngle(double radians){}//killroy was here too!
 }
