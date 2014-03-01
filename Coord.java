@@ -26,5 +26,3 @@ public class Coord {
 	public double getAngle2DZ(){}
 	public void setAngle(double radians){}//killroy was here too!
 }
-//test test
-//Jaiden Test
