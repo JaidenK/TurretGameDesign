@@ -3,6 +3,7 @@ package king.jaiden.RATL;
 public class Coord {
 	private double x,y,z;
 	public Coord(double x, double y, double z){}
+	
 	public Coord(double angle, double radius){}
 	
 	public Coord(double angle, double radius, boolean flat){}
